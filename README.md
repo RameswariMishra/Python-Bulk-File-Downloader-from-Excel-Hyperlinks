@@ -22,8 +22,8 @@ This project automates bulk file downloads from Excel sheets where download link
 project/
 │
 ├── file_links.xlsx
-├── downloader.py
-├── oop_downloader.py
+├── downloader.ipynb
+├── oop_downloader.ipynb
 ├── Sample Resume PDF (Used for demonstrating hyperlink-based file download automation)
 ```
 ## Use Case
