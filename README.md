@@ -1,6 +1,5 @@
 # Python-Bulk-File-Downloader-from-Excel-Hyperlinks
-This project automates bulk file downloads from Excel sheets where download links are stored as embedded hyperlinks rather than visible URLs.
-The workflow extracts hyperlinks directly from Excel cells using openpyxl and downloads files efficiently using Python.
+This project automates bulk file downloads from Excel sheets where download links are stored as embedded hyperlinks rather than visible URLs. The workflow extracts hyperlinks directly from Excel cells using openpyxl and downloads files efficiently using Python. The resume PDF included in this repository is used only as a sample downloadable asset for demonstrating the hyperlink extraction and automated download workflow.
 
 ## Features
  - Read hyperlinks from Excel .xlsx files
@@ -25,7 +24,7 @@ project/
 ├── file_links.xlsx
 ├── downloader.py
 ├── oop_downloader.py
-├── Resume (As a sample hyperlink file, that can be downloaded)
+├── Sample Resume PDF (Used for demonstrating hyperlink-based file download automation)
 ```
 ## Use Case
 This project is useful for:
