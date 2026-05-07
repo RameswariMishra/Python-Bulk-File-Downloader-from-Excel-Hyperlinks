@@ -25,7 +25,7 @@ project/
 ├── file_links.xlsx
 ├── downloader.py
 ├── oop_downloader.py
-├── downloaded_files/
+├── Resume (As a sample hyperlink file, that can be downloaded)
 ```
 ## Use Case
 This project is useful for:
