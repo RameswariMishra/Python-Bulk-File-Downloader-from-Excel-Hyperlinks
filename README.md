@@ -24,7 +24,9 @@ project/
 ├── file_links.xlsx
 ├── downloader.ipynb
 ├── oop_downloader.ipynb
+├── downloader_files/ (folder to save downloaded files)
 ├── Sample Resume PDF (Used for demonstrating hyperlink-based file download automation)
+
 ```
 ## Use Case
 This project is useful for:
