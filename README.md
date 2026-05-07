@@ -19,13 +19,14 @@ The workflow extracts hyperlinks directly from Excel cells using openpyxl and do
 - pathlib
 
 ## Project Structure
+```
 project/
 │
 ├── file_links.xlsx
 ├── downloader.py
 ├── oop_downloader.py
 ├── downloaded_files/
-
+```
 ## Use Case
 This project is useful for:
 - Research dataset collection
